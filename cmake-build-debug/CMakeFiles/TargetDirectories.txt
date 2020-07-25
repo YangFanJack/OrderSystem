@@ -1,0 +1,3 @@
+D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/CMakeFiles/OrderSystem.dir
+D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

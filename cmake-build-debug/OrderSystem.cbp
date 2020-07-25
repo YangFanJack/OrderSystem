@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="OrderSystem"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OrderSystem">
+				<Option output="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/OrderSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 OrderSystem"/>
+					<CompileFile command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="OrderSystem/fast">
+				<Option output="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/OrderSystem.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 OrderSystem/fast"/>
+					<CompileFile command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Acode/C++/Clion/OrderSystem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programs/Qt/Qt5.14.2/Tools/mingw730_64/bin/mingw32-make.exe -f &quot;D:/Acode/C++/Clion/OrderSystem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/Menu.cpp">
+			<Option target="OrderSystem"/>
+		</Unit>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/Menu.h">
+			<Option target="OrderSystem"/>
+		</Unit>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/User.cpp">
+			<Option target="OrderSystem"/>
+		</Unit>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/User.h">
+			<Option target="OrderSystem"/>
+		</Unit>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/main.cpp">
+			<Option target="OrderSystem"/>
+		</Unit>
+		<Unit filename="D:/Acode/C++/Clion/OrderSystem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
